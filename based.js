@@ -114,8 +114,8 @@ if (!methodCodeQR && !methodCode && !fs.existsSync(`./${authFile}/creds.json`)) 
         const violet4 = chalk.hex('#5B2C6F');
         const softText = chalk.hex('#D7BDE2');
 
-        const a = violet1('╭━━━━━━━━━━━━━• ✧˚🩸 varebot 🕊️˚✧ •━━━━━━━━━━━━━');
-        const b = violet1('╰━━━━━━━━━━━━━• ☾⋆₊✧ 𝓿𝓪𝓻𝓮𝓫𝓸𝓽 ✧₊⋆☽ •━━━━━━━━━━━━━');
+        const a = violet1('╭━━━━━━━━━━━━━• ✧˚💀 𝑂𝑏𝑖𝑡𝑜𝑟𝑖𝑜 𝐵𝑜𝑡 🪦˚✧ •━━━━━━━━━━━━━');
+        const b = violet1('╰━━━━━━━━━━━━━• ☾⋆₊✧ 𝑂𝑏𝑖𝑡𝑜𝑟𝑖𝑜 𝐵𝑜𝑡 ✧₊⋆☽ •━━━━━━━━━━━━━');
         const linea = violet2('   ✦━━━━━━✦✦━━━━━━༺༻━━━━━━༺༻━━━━━━✦✦━━━━━━✦');
         const sm = violet3('SELEZIONE METODO DI ACCESSO ✦');
         const qr = violet4(' ┌─⭓') + ' ' + chalk.bold.hex('#D2B4DE')('1. Scansione con QR Code');
@@ -560,7 +560,7 @@ setInterval(async () => {
     if (global.stopped === 'close' || !conn || !conn.user) return;
     const deleted = clearDirectory(join(__dirname, 'temp'));
     if (deleted > 0) {
-        console.log(chalk.bold.greenBright(`\n╭⭑⭒━━━✦❘༻ 🟢 PULIZIA MULTIMEDIA 🟢 ༺❘✦━━━⭒⭑\n┃          ${deleted} FILE NELLA CARTELLA TEMP\n┃          ELIMINATI CON SUCCESSO\n╰⭑⭒━━━✦❘༻☾⋆⁺₊🗑️ 𝓿𝓪𝓻𝓮�𝓸𝓽 ♻️₊⁺⋆☽༺❘✦━━━⭒⭑`));
+        console.log(chalk.bold.greenBright(`\n╭⭑⭒━━━✦❘༻ 🟢 PULIZIA MULTIMEDIA 🟢 ༺❘✦━━━⭒⭑\n┃          ${deleted} FILE NELLA CARTELLA TEMP\n┃          ELIMINATI CON SUCCESSO\n╰⭑⭒━━━✦❘༻☾⋆⁺₊🗑️ 𝑂𝑏𝑖𝑡𝑜𝑟𝑖𝑜 𝐵𝑜𝑡🧹₊⁺⋆☽༺❘✦━━━⭒⭑`));
     }
 }, 1000 * 60 * 60);
 _quickTest().then(() => conn.logger.info(chalk.bold.magentaBright(``)));
