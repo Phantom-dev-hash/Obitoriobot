@@ -7,38 +7,34 @@ const pkg = JSON.parse(fs.readFileSync('./package.json', 'utf-8'))
 /*⭑⭒━━━✦❘༻☾⋆⁺₊✧ 𝓿𝓪𝓻𝓮𝓫𝓸𝓽 ✧₊⁺⋆☽༺❘✦━━━⭒⭑*/
 
 global.prefisso = '.'
-global.sam = ['393514357738',]
+global.phantom = ['1(450)257-9028',]
 global.owner = [
-  ['393476686131', 'sam', true],
-  ['393511082922', 'gio', true],
-  ['393392645292', 'mavko', true],
-  ['212614769337', 'zexin/giuse', true],
-  ['393514357738', 'vare', true],
-  ['393715983481', 'youns/kinderino', true],
+  ['1(450)257-9028', 'phantom', true],
+  ['393533329322', 'leon/soldato di dio', true],
 
 ]
-global.mods = ['393514357738', '393511082922', '393392645292']
-global.prems = ['393514357738', '393511082922', '212614769337']
+global.mods = ['1(450)257-9028', '393533329322']
+global.prems = ['1(450)257-9028', '393533329322',]
 
-/*⭑⭒━━━✦❘༻🩸 INFO BOT 🕊️༺❘✦━━━⭒⭑*/
+/*⭑⭒━━━✦❘🌌༒ INFO BOT ༒⭐❘✦━━━⭒⭑*/
 
-global.nomepack = 'vare ✧ bot'
-global.nomebot = '✧˚🩸 varebot 🕊️˚✧'
-global.wm = 'vare ✧ bot'
-global.autore = 'SⒶ𝔪'
-global.dev = '⋆｡˚- SⒶ𝔪'
-global.testobot = `༻⋆⁺₊𝓿𝓪𝓻𝓮𝓫𝓸𝓽₊⁺⋆༺`
+global.nomepack = '𝑂𝑏𝑖𝑡𝑜𝑟𝑖𝑜 𓆉︎ 𝐵𝑜𝑡'
+global.nomebot = '✞˚🪦 𝑂𝑏𝑖𝑡𝑜𝑟𝑖𝑜 𝐵𝑜𝑡 💀˚✞'
+global.wm = '𝑂𝑏𝑖𝑡𝑜𝑟𝑖𝑜 𓆉︎ 𝐵𝑜𝑡'
+global.autore = '𝕻𝖍𝖆𝖓𝖙𝖔𝖒ᵃⁿᵗⁱᵗʳᵒⁱᵉ'
+global.dev = '𝕻𝖍𝖆𝖓𝖙𝖔𝖒ᵃⁿᵗⁱᵗʳᵒⁱᵉ'
+global.testobot = `༻𝑂𝑏𝑖𝑡𝑜𝑟𝑖𝑜 𝐵𝑜𝑡༺`
 global.versione = pkg.version
 global.errore = '⚠️ *Errore inatteso!* Usa il comando `.segnala <errore>` per avvisare lo sviluppatore.'
 
-/*⭑⭒━━━✦❘༻� LINK 🌐༺❘✦━━━⭒⭑*/
+/*⭑⭒━━━✦❘༻📃 LINK 🌐༺❘✦━━━⭒⭑*/
 
 global.repobot = 'https://github.com/realvare/varebot'
 global.gruppo = 'https://chat.whatsapp.com/bysamakavare'
 global.canale = 'https://whatsapp.com/channel/0029VbB41Sa1Hsq1JhsC1Z1z'
 global.insta = 'https://www.instagram.com/samakavare'
 
-/*⭑⭒━━━✦❘🗝️ API KEYS 🌍༺❘✦━━━⭒⭑*/
+/*⭑⭒━━━✦❘🗝️ API KEYS 🔒༺❘✦━━━⭒⭑*/
 
 // Le keys con scritto "varebot" vanno cambiate con keys valide
 // Nel README.md ci sono i vari link per ottenere le keys
