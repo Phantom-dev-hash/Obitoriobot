@@ -7,15 +7,15 @@
   "license": "Apache-2.0",
   "author": {
     "name": "𝕻𝖍𝖆𝖓𝖙𝖔𝖒ᵃⁿᵗⁱᵗʳᵒⁱᵉ",
-    "url": "https://github.com/realvare"
+    "url": "https://github.com/Phantom-dev-hash/Obitoriobot"
   },
-  "homepage": "https://github.com/realvare/varebot",
+  "homepage": "https://github.com/Phantom-dev-hash/Obitoriobot",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/realvare/varebot.git"
+    "url": "git+https://github.com/Phantom-dev-hash/Obitoriobot"
   },
   "bugs": {
-    "url": "git+https://github.com/realvare/varebot/issues"
+    "url": "git+https://github.com/Phantom-dev-hash/Obitoriobot"
   },
   "keywords": [
     "whatsapp",
