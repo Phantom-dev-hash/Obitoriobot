@@ -49,11 +49,11 @@ global.APIKeys = {
     google: 'varebot',
     googleCX: 'varebot',
     genius: 'varebot',
-    removebg: 'varebot',
+    removebg: 'sV5Asr9L3jnKZUJhP1QpQtsv',
     openrouter: 'varebot',
     sightengine_user: 'varebot',
     sightengine_secret: 'varebot',
-    lastfm: 'http://ws.audioscrobbler.com/2.0',
+    lastfm: '40a36cf7f66a4eb4a0ea14a6932aa920',
 }
 
 /*⭑⭒━━━✦❘༻🪷 SISTEMA XP/EURO 💸༺❘✦━━━⭒⭑*/
