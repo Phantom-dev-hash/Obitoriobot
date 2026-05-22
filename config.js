@@ -53,7 +53,7 @@ global.APIKeys = {
     openrouter: 'varebot',
     sightengine_user: 'varebot',
     sightengine_secret: 'varebot',
-    lastfm: 'varebot',
+    lastfm: 'http://ws.audioscrobbler.com/2.0',
 }
 
 /*⭑⭒━━━✦❘༻🪷 SISTEMA XP/EURO 💸༺❘✦━━━⭒⭑*/
