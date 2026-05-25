@@ -3,9 +3,9 @@
 
 <div align="center">
 
-# ![Retro](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&duration=2500&pause=1000&color=7a7acd&center=true&vCenter=true&width=700&height=70&lines=$+IL+BOT+PIÙ+BELLO+DI+TUTTA+ITALIA)
+# ![Retro](https://readme-typing-svg.herokuapp.com?font=VT323&size=40&duration=2500&pause=1000&color=7a7acd&center=true&vCenter=true&width=700&height=70&lines=$+IL+BOT+PIÙ+BELLO+DI+TUTTA+WHATSAPP+ITALIA)
 
-<img src="[url=https://ibb.co/RTkCbhTT][img]https://i.ibb.co/Sw4KyQww/Picsart-26-05-25-11-31-54-669.jpg[/img][/url]" alt=" Preview" width="600" style="border-radius: 15px; margin: 50px 0;"/>
+<img src="https://ibb.co/RTkCbhTT" alt=" Preview" width="600" style="border-radius: 15px; margin: 50px 0;"/>
 
 <p>
   <a href="https://github.com/realvare/varebot">
