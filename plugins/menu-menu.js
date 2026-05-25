@@ -19,7 +19,7 @@ const defaultMenu = {
   footer: '*╰⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*\n',
   after: ``,
 }
-const swag = 'https://ibb.co/m5t0tNpm';
+const swag = 'https://i.ibb.co/m5t0tNpm/IMG-20260525-122021.jpg';
 function detectDevice(msgID) {
   if (!msgID) {
     return 'unknown'; 
