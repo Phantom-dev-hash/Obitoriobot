@@ -38,7 +38,7 @@ global.gruppo = 'https://chat.whatsapp.com/HPZwmAbeg7A6777tFvGRTX'
 global.APIKeys = {
     spotifyclientid: 'varebot',
     spotifysecret: 'varebot',
-    browserless: 'varebot',
+    browserless: '2Ua4g0msrfwUtMI14e2b00158e0030f07b88ec4010321095a',
     tmdb: 'varebot',
     ocrspace: 'jjjsheu',
     assemblyai: 'varebot',
