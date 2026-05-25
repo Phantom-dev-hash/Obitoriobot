@@ -28,11 +28,7 @@ global.versione = pkg.version
 global.errore = '⚠️ *Errore inatteso!* Usa il comando `.segnala <errore>` per avvisare lo sviluppatore.'
 
 /*⭑⭒━━━✦❘༻📃 LINK 🌐༺❘✦━━━⭒⭑*/
-
-global.repobot = 'https://github.com/realvare/varebot'
-global.gruppo = 'https://chat.whatsapp.com/bysamakavare'
-global.canale = 'https://whatsapp.com/channel/0029VbB41Sa1Hsq1JhsC1Z1z'
-global.insta = 'https://www.instagram.com/samakavare'
+global.gruppo = 'https://chat.whatsapp.com/HPZwmAbeg7A6777tFvGRTX'
 
 /*⭑⭒━━━✦❘🗝️ API KEYS 🔒༺❘✦━━━⭒⭑*/
 
@@ -48,7 +44,7 @@ global.APIKeys = {
     assemblyai: 'varebot',
     google: 'varebot',
     googleCX: 'varebot',
-    genius: 'varebot',
+    genius: 'PxarLdnyr0qCPs4g_k4WWLAzkJdQGDM2La3qJivoz3chSjhTHYy4tE0hW3C3z0TM',
     removebg: 'sV5Asr9L3jnKZUJhP1QpQtsv',
     openrouter: 'varebot',
     sightengine_user: 'varebot',
