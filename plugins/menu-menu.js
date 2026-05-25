@@ -1,6 +1,6 @@
 const emojicategoria = {
-  info: '⁉️',
-  main: '🦋'
+  info: '📍',
+  main: '🧊'
 }
 let tags = {
   'main': '╭ *`𝐌𝐀𝐈𝐍`* ╯',
